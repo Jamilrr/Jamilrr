@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at a Private College, in the financial sector.<br>👯 I am wanting to collaborate in junior vacancies.<br>🤝 I'm looking for help with Data Science.<br>🌱 At the moment I'm learning: Python and MYSQL.<br>💬 Ask me about administrative processes.<br>⚡ Fun Fact: People tend to think differently about me when they first meet me.
+🔭 Atualmente estou trabalhando em uma Faculdade Particular, no setor financeiro.<br>👯 Estou querendo colaborar em vagas junior.<br>🤝 Estou procurando ajuda com Data Science.<br>🌱 No momento estou aprendendo: Python e MYSQL.<br>💬 Pergunte me sobre processos administrativos.<br>⚡ Fun Fact: As pessoas tendem a pensar diferente sobre mim quando me conhecem.
 
 
 ## 🌐 Socials:
