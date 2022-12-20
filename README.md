@@ -1,4 +1,4 @@
-# 💫 Sobre:
+# 💫 Sobre Jamil:
 🔭 Atualmente estou trabalhando em uma Faculdade Particular, no setor financeiro.<br>👯 Estou querendo colaborar em vagas junior.<br>🤝 Estou procurando ajuda com Data Science.<br>🌱 No momento estou aprendendo: Python e MYSQL.<br>💬 Pergunte me sobre processos administrativos.<br>⚡ Fun Fact: As pessoas tendem a pensar diferente sobre mim quando me conhecem.
 
 
