@@ -1,5 +1,5 @@
 # 💫 Sobre Jamil:
-🔭 Atualmente estou trabalhando com suporte ao ERP Protheus TOTVS, no setor T.I..<br>👯 Estou querendo colaborar em vagas junior.<br>🤝 Estou procurando ajuda com Analista de Dados, Analista de BI e Cientista de Dados.<br>🌱 No momento estou aprendendo: Python, MYSQL e Power BI.<br>💬 Pergunte me sobre processos administrativos.<br>⚡ Fun Fact: As pessoas tendem a pensar diferente sobre mim quando me conhecem.
+🔭 Atualmente estou trabalhando com suporte ao ERP Protheus TOTVS, no setor T.I.<br>👯 Estou querendo colaborar em vagas junior.<br>🤝 Estou procurando ajuda com Analista de Dados, Analista de BI e Cientista de Dados.<br>🌱 No momento estou aprendendo: Python, MYSQL e Power BI.<br>💬 Pergunte me sobre processos administrativos.<br>⚡ Fun Fact: As pessoas tendem a pensar diferente sobre mim quando me conhecem.
 
 
 ## 🌐 Socials:
